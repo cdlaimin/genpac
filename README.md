@@ -1,3 +1,2 @@
-最后一次更新时间 2020-02-18 10:12:27
-https://raw.githubusercontent.com/cdlaimin/genpac/dev/pac.txt
+最后一次更新时间 2020-02-18 10:16:33
 
